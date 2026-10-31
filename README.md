@@ -1,0 +1,2 @@
+# jameai
+an ai website
